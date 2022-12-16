@@ -1,0 +1,1532 @@
+Net dimms[3]
+Summary accuracy: 78.84615384615384
+Net dimms[4,3]
+Summary accuracy: 98.07692307692308
+Net dimms[5,3]
+Summary accuracy: 97.43589743589743
+Net dimms[6,3]
+Summary accuracy: 97.43589743589743
+Net dimms[7,3]
+Summary accuracy: 98.07692307692308
+Net dimms[8,3]
+Summary accuracy: 98.07692307692308
+Net dimms[9,3]
+Summary accuracy: 97.43589743589743
+Net dimms[10,3]
+Summary accuracy: 96.7948717948718
+Net dimms[5,4,3]
+Summary accuracy: 96.79487179487177
+Net dimms[6,4,3]
+Summary accuracy: 97.43589743589743
+Net dimms[7,4,3]
+Summary accuracy: 98.07692307692308
+Net dimms[8,4,3]
+Summary accuracy: 98.07692307692308
+Net dimms[9,4,3]
+Summary accuracy: 98.07692307692308
+Net dimms[10,4,3]
+Summary accuracy: 98.07692307692308
+Net dimms[6,5,3]
+Summary accuracy: 97.43589743589743
+Net dimms[7,5,3]
+Summary accuracy: 98.07692307692308
+Net dimms[8,5,3]
+Summary accuracy: 98.07692307692308
+Net dimms[9,5,3]
+Summary accuracy: 97.43589743589743
+Net dimms[10,5,3]
+Summary accuracy: 97.43589743589743
+Net dimms[7,6,3]
+Summary accuracy: 97.43589743589743
+Net dimms[8,6,3]
+Summary accuracy: 97.43589743589743
+Net dimms[9,6,3]
+Summary accuracy: 97.43589743589743
+Net dimms[10,6,3]
+Summary accuracy: 97.43589743589743
+Net dimms[8,7,3]
+Summary accuracy: 97.43589743589743
+Net dimms[9,7,3]
+Summary accuracy: 98.07692307692308
+Net dimms[10,7,3]
+Summary accuracy: 97.43589743589743
+Net dimms[9,8,3]
+Summary accuracy: 97.43589743589743
+Net dimms[10,8,3]
+Summary accuracy: 98.07692307692308
+Net dimms[10,9,3]
+Summary accuracy: 98.07692307692308
+Net dimms[6,5,4,3]
+Summary accuracy: 98.07692307692308
+Net dimms[7,5,4,3]
+Summary accuracy: 97.43589743589743
+Net dimms[8,5,4,3]
+Summary accuracy: 97.43589743589743
+Net dimms[9,5,4,3]
+Summary accuracy: 98.07692307692308
+Net dimms[10,5,4,3]
+Summary accuracy: 98.07692307692308
+
+_______ k = 7 epoch = 20
+
+Net dimms[3]
+Summary accuracy: 70.23809523809523
+Net dimms[4,3]
+Summary accuracy: 92.26190476190477
+Net dimms[5,3]
+Summary accuracy: 92.26190476190477
+Net dimms[6,3]
+Summary accuracy: 91.66666666666666
+Net dimms[7,3]
+Summary accuracy: 91.66666666666666
+Net dimms[8,3]
+Summary accuracy: 92.26190476190474
+Net dimms[9,3]
+Summary accuracy: 92.85714285714286
+Net dimms[10,3]
+Summary accuracy: 91.66666666666666
+Net dimms[5,4,3]
+Summary accuracy: 95.23809523809526
+Net dimms[6,4,3]
+Summary accuracy: 92.26190476190477
+Net dimms[7,4,3]
+Summary accuracy: 92.85714285714288
+Net dimms[8,4,3]
+Summary accuracy: 94.04761904761905
+Net dimms[9,4,3]
+Summary accuracy: 93.45238095238096
+Net dimms[10,4,3]
+Summary accuracy: 91.66666666666667
+Net dimms[6,5,3]
+Summary accuracy: 92.85714285714288
+Net dimms[7,5,3]
+Summary accuracy: 93.45238095238096
+Net dimms[8,5,3]
+Summary accuracy: 92.85714285714288
+Net dimms[9,5,3]
+Summary accuracy: 93.45238095238096
+Net dimms[10,5,3]
+Summary accuracy: 95.83333333333334
+Net dimms[7,6,3]
+Summary accuracy: 94.04761904761905
+Net dimms[8,6,3]
+Summary accuracy: 92.26190476190474
+Net dimms[9,6,3]
+Summary accuracy: 94.64285714285715
+Net dimms[10,6,3]
+Summary accuracy: 94.04761904761905
+Net dimms[8,7,3]
+Summary accuracy: 95.23809523809526
+Net dimms[9,7,3]
+Summary accuracy: 95.23809523809526
+Net dimms[10,7,3]
+Summary accuracy: 95.23809523809523
+Net dimms[9,8,3]
+Summary accuracy: 94.64285714285715
+Net dimms[10,8,3]
+Summary accuracy: 96.42857142857144
+Net dimms[10,9,3]
+Summary accuracy: 94.04761904761905
+Net dimms[6,5,4,3]
+Summary accuracy: 91.66666666666667
+Net dimms[7,5,4,3]
+Summary accuracy: 82.73809523809526
+Net dimms[8,5,4,3]
+Summary accuracy: 92.85714285714288
+Net dimms[9,5,4,3]
+Summary accuracy: 85.1190476190476
+Net dimms[10,5,4,3]
+Summary accuracy: 81.54761904761904
+Net dimms[7,6,4,3]
+Summary accuracy: 95.83333333333334
+Net dimms[8,6,4,3]
+Summary accuracy: 92.85714285714288
+Net dimms[9,6,4,3]
+Summary accuracy: 89.28571428571429
+Net dimms[10,6,4,3]
+Summary accuracy: 94.04761904761905
+Net dimms[8,7,4,3]
+Summary accuracy: 92.26190476190477
+Net dimms[9,7,4,3]
+Summary accuracy: 93.45238095238096
+Net dimms[10,7,4,3]
+Summary accuracy: 81.54761904761905
+Net dimms[9,8,4,3]
+Summary accuracy: 92.85714285714288
+Net dimms[10,8,4,3]
+Summary accuracy: 94.04761904761905
+Net dimms[10,9,4,3]
+Summary accuracy: 92.85714285714288
+Net dimms[7,6,5,3]
+Summary accuracy: 90.47619047619048
+Net dimms[8,6,5,3]
+Summary accuracy: 89.88095238095238
+Net dimms[9,6,5,3]
+Summary accuracy: 93.45238095238096
+Net dimms[10,6,5,3]
+Summary accuracy: 92.26190476190477
+Net dimms[8,7,5,3]
+Summary accuracy: 92.26190476190477
+Net dimms[9,7,5,3]
+Summary accuracy: 94.04761904761905
+Net dimms[10,7,5,3]
+Summary accuracy: 92.85714285714288
+Net dimms[9,8,5,3]
+Summary accuracy: 92.85714285714288
+Net dimms[10,8,5,3]
+Summary accuracy: 92.26190476190477
+Net dimms[10,9,5,3]
+Summary accuracy: 96.42857142857144
+Net dimms[8,7,6,3]
+Summary accuracy: 90.47619047619048
+Net dimms[9,7,6,3]
+Summary accuracy: 92.85714285714288
+Net dimms[10,7,6,3]
+
+
+
+________ WINE
+Net dimms[3]
+Summary accuracy: 94.70899470899471
+Net dimms[4,3]
+Summary accuracy: 96.2962962962963
+Net dimms[5,3]
+Summary accuracy: 95.76719576719577
+Net dimms[6,3]
+Summary accuracy: 96.82539682539684
+Net dimms[7,3]
+Summary accuracy: 97.35449735449735
+Net dimms[8,3]
+Summary accuracy: 97.35449735449735
+Net dimms[9,3]
+Summary accuracy: 97.88359788359789
+Net dimms[10,3]
+Summary accuracy: 97.88359788359789
+Net dimms[11,3]
+Summary accuracy: 97.88359788359789
+Net dimms[12,3]
+Summary accuracy: 97.88359788359789
+Net dimms[13,3]
+Summary accuracy: 97.35449735449735
+Net dimms[14,3]
+Summary accuracy: 97.88359788359789
+Net dimms[15,3]
+Summary accuracy: 97.35449735449735
+Net dimms[5,4,3]
+Summary accuracy: 95.76719576719577
+Net dimms[6,4,3]
+Summary accuracy: 97.35449735449735
+Net dimms[7,4,3]
+Summary accuracy: 96.82539682539684
+Net dimms[8,4,3]
+Summary accuracy: 95.76719576719577
+Net dimms[9,4,3]
+Summary accuracy: 97.88359788359789
+Net dimms[10,4,3]
+Summary accuracy: 98.94179894179895
+Net dimms[11,4,3]
+Summary accuracy: 97.88359788359789
+Net dimms[12,4,3]
+Summary accuracy: 97.35449735449735
+Net dimms[13,4,3]
+Summary accuracy: 98.41269841269842
+Net dimms[14,4,3]
+Summary accuracy: 98.94179894179895
+Net dimms[15,4,3]
+Summary accuracy: 97.35449735449735
+Net dimms[6,5,3]
+Summary accuracy: 97.88359788359789
+Net dimms[7,5,3]
+Summary accuracy: 95.76719576719577
+Net dimms[8,5,3]
+Summary accuracy: 97.88359788359789
+Net dimms[9,5,3]
+Summary accuracy: 99.47089947089947
+Net dimms[10,5,3]
+Summary accuracy: 98.94179894179895
+Net dimms[11,5,3]
+Summary accuracy: 98.41269841269842
+Net dimms[12,5,3]
+Summary accuracy: 98.41269841269842
+Net dimms[13,5,3]
+Summary accuracy: 98.41269841269842
+Net dimms[14,5,3]
+Summary accuracy: 98.41269841269842
+Net dimms[15,5,3]
+Summary accuracy: 98.94179894179895
+Net dimms[7,6,3]
+Summary accuracy: 97.88359788359789
+Net dimms[8,6,3]
+Summary accuracy: 98.41269841269842
+Net dimms[9,6,3]
+Summary accuracy: 97.88359788359789
+Net dimms[10,6,3]
+Summary accuracy: 98.94179894179895
+Net dimms[11,6,3]
+Summary accuracy: 98.94179894179895
+Net dimms[12,6,3]
+Summary accuracy: 98.41269841269842
+Net dimms[13,6,3]
+Summary accuracy: 97.88359788359789
+Net dimms[14,6,3]
+Summary accuracy: 98.41269841269842
+Net dimms[15,6,3]
+Summary accuracy: 98.41269841269842
+Net dimms[8,7,3]
+Summary accuracy: 97.88359788359789
+Net dimms[9,7,3]
+Summary accuracy: 97.88359788359789
+Net dimms[10,7,3]
+Summary accuracy: 98.94179894179895
+Net dimms[11,7,3]
+Summary accuracy: 97.88359788359789
+Net dimms[12,7,3]
+Summary accuracy: 99.47089947089947
+Net dimms[13,7,3]
+Summary accuracy: 98.41269841269842
+Net dimms[14,7,3]
+Summary accuracy: 97.35449735449735
+Net dimms[15,7,3]
+Summary accuracy: 98.94179894179895
+Net dimms[9,8,3]
+Summary accuracy: 98.41269841269842
+Net dimms[10,8,3]
+Summary accuracy: 98.41269841269842
+Net dimms[11,8,3]
+Summary accuracy: 98.41269841269842
+Net dimms[12,8,3]
+Summary accuracy: 98.94179894179895
+Net dimms[13,8,3]
+Summary accuracy: 98.41269841269842
+Net dimms[14,8,3]
+Summary accuracy: 98.94179894179895
+Net dimms[15,8,3]
+Summary accuracy: 98.41269841269842
+Net dimms[10,9,3]
+Summary accuracy: 98.94179894179895
+Net dimms[11,9,3]
+Summary accuracy: 97.88359788359789
+Net dimms[12,9,3]
+Summary accuracy: 98.94179894179895
+Net dimms[13,9,3]
+Summary accuracy: 98.94179894179895
+Net dimms[14,9,3]
+Summary accuracy: 99.47089947089947
+Net dimms[15,9,3]
+Summary accuracy: 98.94179894179895
+Net dimms[11,10,3]
+Summary accuracy: 97.88359788359789
+Net dimms[12,10,3]
+Summary accuracy: 98.41269841269842
+Net dimms[13,10,3]
+Summary accuracy: 99.47089947089947
+Net dimms[14,10,3]
+Summary accuracy: 98.94179894179895
+Net dimms[15,10,3]
+Summary accuracy: 98.94179894179895
+Net dimms[12,11,3]
+Summary accuracy: 98.94179894179895
+Net dimms[13,11,3]
+Summary accuracy: 98.41269841269842
+Net dimms[14,11,3]
+Summary accuracy: 98.94179894179895
+Net dimms[15,11,3]
+Summary accuracy: 98.41269841269842
+Net dimms[13,12,3]
+Summary accuracy: 97.88359788359789
+Net dimms[14,12,3]
+Summary accuracy: 98.41269841269842
+Net dimms[15,12,3]
+Summary accuracy: 98.41269841269842
+Net dimms[14,13,3]
+Summary accuracy: 98.41269841269842
+Net dimms[15,13,3]
+Summary accuracy: 98.41269841269842
+Net dimms[15,14,3]
+Summary accuracy: 98.94179894179895
+Net dimms[6,5,4,3]
+Summary accuracy: 94.70899470899472
+Net dimms[7,5,4,3]
+Summary accuracy: 93.12169312169313
+Net dimms[8,5,4,3]
+Summary accuracy: 94.17989417989418
+Net dimms[9,5,4,3]
+Summary accuracy: 89.4179894179894
+Net dimms[10,5,4,3]
+Summary accuracy: 94.17989417989418
+Net dimms[11,5,4,3]
+Summary accuracy: 94.17989417989418
+Net dimms[12,5,4,3]
+Summary accuracy: 95.23809523809526
+Net dimms[13,5,4,3]
+Summary accuracy: 93.12169312169313
+Net dimms[14,5,4,3]
+Summary accuracy: 96.82539682539684
+Net dimms[15,5,4,3]
+Summary accuracy: 94.70899470899471
+Net dimms[7,6,4,3]
+Summary accuracy: 92.5925925925926
+Net dimms[8,6,4,3]
+Summary accuracy: 93.65079365079364
+Net dimms[9,6,4,3]
+Summary accuracy: 93.12169312169313
+Net dimms[10,6,4,3]
+Summary accuracy: 92.5925925925926
+Net dimms[11,6,4,3]
+Summary accuracy: 89.94708994708994
+Net dimms[12,6,4,3]
+Summary accuracy: 93.12169312169313
+Net dimms[13,6,4,3]
+Summary accuracy: 95.76719576719577
+Net dimms[14,6,4,3]
+Summary accuracy: 98.41269841269842
+Net dimms[15,6,4,3]
+Summary accuracy: 96.2962962962963
+Net dimms[8,7,4,3]
+Summary accuracy: 89.94708994708994
+Net dimms[9,7,4,3]
+Summary accuracy: 89.94708994708994
+Net dimms[10,7,4,3]
+Summary accuracy: 94.17989417989418
+Net dimms[11,7,4,3]
+Summary accuracy: 97.35449735449735
+Net dimms[12,7,4,3]
+Summary accuracy: 96.2962962962963
+Net dimms[13,7,4,3]
+Summary accuracy: 95.76719576719577
+Net dimms[14,7,4,3]
+
+---------- k = 7 epoch = 20
+
+Net dimms[3]
+Summary accuracy: 94.70899470899471
+Net dimms[4,3]
+Summary accuracy: 96.82539682539684
+Net dimms[5,3]
+Summary accuracy: 96.82539682539684
+Net dimms[6,3]
+Summary accuracy: 96.2962962962963
+Net dimms[7,3]
+Summary accuracy: 96.82539682539684
+Net dimms[8,3]
+Summary accuracy: 97.35449735449735
+Net dimms[9,3]
+Summary accuracy: 96.82539682539684
+Net dimms[10,3]
+Summary accuracy: 97.88359788359789
+Net dimms[11,3]
+Summary accuracy: 97.35449735449735
+Net dimms[12,3]
+Summary accuracy: 97.88359788359789
+Net dimms[13,3]
+Summary accuracy: 97.88359788359789
+Net dimms[14,3]
+Summary accuracy: 97.88359788359789
+Net dimms[15,3]
+Summary accuracy: 98.41269841269842
+Net dimms[5,4,3]
+Summary accuracy: 97.88359788359789
+Net dimms[6,4,3]
+Summary accuracy: 94.17989417989418
+Net dimms[7,4,3]
+Summary accuracy: 96.82539682539684
+Net dimms[8,4,3]
+Summary accuracy: 96.2962962962963
+Net dimms[9,4,3]
+Summary accuracy: 96.82539682539684
+Net dimms[10,4,3]
+Summary accuracy: 97.88359788359789
+Net dimms[11,4,3]
+Summary accuracy: 97.88359788359789
+Net dimms[12,4,3]
+Summary accuracy: 100.0
+Net dimms[13,4,3]
+Summary accuracy: 97.35449735449735
+Net dimms[14,4,3]
+Summary accuracy: 98.41269841269842
+Net dimms[15,4,3]
+Summary accuracy: 98.41269841269842
+Net dimms[6,5,3]
+Summary accuracy: 97.35449735449735
+Net dimms[7,5,3]
+Summary accuracy: 97.88359788359789
+Net dimms[8,5,3]
+Summary accuracy: 98.41269841269842
+Net dimms[9,5,3]
+Summary accuracy: 96.82539682539684
+Net dimms[10,5,3]
+Summary accuracy: 96.82539682539684
+Net dimms[11,5,3]
+Summary accuracy: 98.94179894179895
+Net dimms[12,5,3]
+Summary accuracy: 99.47089947089947
+Net dimms[13,5,3]
+Summary accuracy: 98.94179894179895
+Net dimms[14,5,3]
+Summary accuracy: 98.41269841269842
+Net dimms[15,5,3]
+Summary accuracy: 98.41269841269842
+Net dimms[7,6,3]
+Summary accuracy: 97.88359788359789
+Net dimms[8,6,3]
+Summary accuracy: 98.41269841269842
+Net dimms[9,6,3]
+Summary accuracy: 97.35449735449735
+Net dimms[10,6,3]
+Summary accuracy: 97.35449735449735
+Net dimms[11,6,3]
+Summary accuracy: 97.88359788359789
+Net dimms[12,6,3]
+Summary accuracy: 98.41269841269842
+Net dimms[13,6,3]
+Summary accuracy: 97.88359788359789
+Net dimms[14,6,3]
+
+----------------- CARS k = 3, epoch = 20
+
+Net dimms[14,9,6,4]
+Summary accuracy: 79.90245512754707
+Net dimms[15,9,6,4]
+Summary accuracy: 79.16050217694551
+Net dimms[11,10,6,4]
+Summary accuracy: 80.71334971829539
+Net dimms[12,10,6,4]
+Summary accuracy: 81.535113939899
+Net dimms[13,10,6,4]
+Summary accuracy: 81.23962101220418
+Net dimms[14,10,6,4]
+Summary accuracy: 82.81813295974008
+Net dimms[15,10,6,4]
+Summary accuracy: 85.64705503455133
+Net dimms[12,11,6,4]
+Summary accuracy: 80.90356825826244
+Net dimms[13,11,6,4]
+Summary accuracy: 85.47525448020015
+Net dimms[14,11,6,4]
+Summary accuracy: 83.96689190957272
+Net dimms[15,11,6,4]
+Summary accuracy: 84.36765922499534
+Net dimms[13,12,6,4]
+Summary accuracy: 84.66043474497631
+Net dimms[14,12,6,4]
+Summary accuracy: 82.57920237038468
+Net dimms[15,12,6,4]
+Summary accuracy: 82.40709988184308
+Net dimms[14,13,6,4]
+Summary accuracy: 84.78110777641571
+Net dimms[15,13,6,4]
+Summary accuracy: 81.1869838183403
+Net dimms[15,14,6,4]
+Summary accuracy: 79.45237189435524
+Net dimms[9,8,7,4]
+Summary accuracy: 82.74466230673697
+Net dimms[10,8,7,4]
+Summary accuracy: 84.32649553036754
+Net dimms[11,8,7,4]
+Summary accuracy: 83.49839069076505
+Net dimms[12,8,7,4]
+Summary accuracy: 79.95237491369716
+Net dimms[13,8,7,4]
+Summary accuracy: 82.04568465590573
+Net dimms[14,8,7,4]
+Summary accuracy: 81.46949357584687
+Net dimms[15,8,7,4]
+Summary accuracy: 83.79056234236519
+Net dimms[10,9,7,4]
+Summary accuracy: 73.2241740590221
+Net dimms[11,9,7,4]
+Summary accuracy: 82.40921342117606
+Net dimms[12,9,7,4]
+Summary accuracy: 82.1723963711536
+Net dimms[13,9,7,4]
+Summary accuracy: 84.66737923135607
+Net dimms[14,9,7,4]
+Summary accuracy: 81.59258208080966
+Net dimms[15,9,7,4]
+Summary accuracy: 83.43729933956928
+Net dimms[11,10,7,4]
+Summary accuracy: 80.31922495506213
+Net dimms[12,10,7,4]
+Summary accuracy: 80.36159638645161
+Net dimms[13,10,7,4]
+Summary accuracy: 85.70663671479497
+Net dimms[14,10,7,4]
+Summary accuracy: 78.40194284587064
+Net dimms[15,10,7,4]
+Summary accuracy: 85.29741524204051
+Net dimms[12,11,7,4]
+Summary accuracy: 80.60415018609211
+Net dimms[13,11,7,4]
+Summary accuracy: 76.76566082323363
+Net dimms[14,11,7,4]
+Summary accuracy: 85.07569490153926
+Net dimms[15,11,7,4]
+Summary accuracy: 79.61118927851818
+Net dimms[13,12,7,4]
+Summary accuracy: 83.97353446176204
+Net dimms[14,12,7,4]
+Summary accuracy: 79.95780972912478
+Net dimms[15,12,7,4]
+Summary accuracy: 82.91797253204025
+Net dimms[14,13,7,4]
+Summary accuracy: 81.98700877823337
+Net dimms[15,13,7,4]
+Summary accuracy: 82.40075926384418
+Net dimms[15,14,7,4]
+Summary accuracy: 81.69936613948958
+Net dimms[10,9,8,4]
+Summary accuracy: 87.79481357576636
+Net dimms[11,9,8,4]
+Summary accuracy: 82.17662344981954
+Net dimms[12,9,8,4]
+Summary accuracy: 76.08268568449488
+Net dimms[13,9,8,4]
+Summary accuracy: 82.45792547056443
+Net dimms[14,9,8,4]
+Summary accuracy: 82.98600836961576
+Net dimms[15,9,8,4]
+Summary accuracy: 86.98089964311379
+Net dimms[11,10,8,4]
+Summary accuracy: 77.57897088750536
+Net dimms[12,10,8,4]
+Summary accuracy: 76.72570486536755
+Net dimms[13,10,8,4]
+Summary accuracy: 77.41985156915199
+Net dimms[14,10,8,4]
+Summary accuracy: 78.21293204266532
+Net dimms[15,10,8,4]
+Summary accuracy: 83.67592799473427
+Net dimms[12,11,8,4]
+Summary accuracy: 77.34396544262546
+Net dimms[13,11,8,4]
+Summary accuracy: 76.6020124920239
+Net dimms[14,11,8,4]
+Summary accuracy: 77.17035328313175
+Net dimms[15,11,8,4]
+Summary accuracy: 75.8404338190448
+Net dimms[13,12,8,4]
+Summary accuracy: 82.86322179884338
+Net dimms[14,12,8,4]
+Summary accuracy: 79.39882889792007
+Net dimms[15,12,8,4]
+Summary accuracy: 84.03009680010145
+Net dimms[14,13,8,4]
+Summary accuracy: 82.46366222018248
+Net dimms[15,13,8,4]
+Summary accuracy: 77.74986563928526
+Net dimms[15,14,8,4]
+Summary accuracy: 85.24870319265212
+Net dimms[11,10,9,4]
+Summary accuracy: 84.77748456613064
+Net dimms[12,10,9,4]
+Summary accuracy: 82.22141035473241
+Net dimms[13,10,9,4]
+Summary accuracy: 80.14470699299714
+Net dimms[14,10,9,4]
+Summary accuracy: 81.58020277900228
+Net dimms[15,10,9,4]
+Summary accuracy: 80.26538002443654
+Net dimms[12,11,9,4]
+Summary accuracy: 82.16665962153554
+Net dimms[13,11,9,4]
+Summary accuracy: 77.5883308474085
+Net dimms[14,11,9,4]
+Summary accuracy: 82.63667051129535
+Net dimms[15,11,9,4]
+Summary accuracy: 80.77534687206243
+Net dimms[13,12,9,4]
+Summary accuracy: 80.373975688259
+Net dimms[14,12,9,4]
+Summary accuracy: 85.06512720487443
+Net dimms[15,12,9,4]
+Summary accuracy: 77.11741415507743
+Net dimms[14,13,9,4]
+Summary accuracy: 84.54851780505922
+Net dimms[15,13,9,4]
+Summary accuracy: 82.22322195987495
+Net dimms[15,14,9,4]
+Summary accuracy: 80.435972842026
+Net dimms[12,11,10,4]
+Summary accuracy: 82.2250335650175
+Net dimms[13,11,10,4]
+Summary accuracy: 84.48712451967303
+Net dimms[14,11,10,4]
+Summary accuracy: 82.3381582416963
+Net dimms[15,11,10,4]
+Summary accuracy: 82.74556810930822
+Net dimms[13,12,10,4]
+Summary accuracy: 79.16170991370721
+Net dimms[14,12,10,4]
+Summary accuracy: 84.48018003329328
+Net dimms[15,12,10,4]
+Summary accuracy: 80.65980672186022
+Net dimms[14,13,10,4]
+Summary accuracy: 81.88384792983855
+Net dimms[15,13,10,4]
+Summary accuracy: 80.60415018609211
+Net dimms[15,14,10,4]
+Summary accuracy: 84.3159278337027
+Net dimms[13,12,11,4]
+Summary accuracy: 78.2253113444727
+Net dimms[14,12,11,4]
+Summary accuracy: 80.89722764026352
+Net dimms[15,12,11,4]
+Summary accuracy: 80.61532175113778
+Net dimms[14,13,11,4]
+Summary accuracy: 85.23753162760644
+Net dimms[15,13,11,4]
+Summary accuracy: 84.77778650032106
+Net dimms[15,14,11,4]
+Summary accuracy: 83.15207217434887
+Net dimms[14,13,12,4]
+Summary accuracy: 81.29618335054359
+Net dimms[15,13,12,4]
+Summary accuracy: 81.06782045785302
+Net dimms[15,14,12,4]
+Summary accuracy: 80.14229151947374
+Net dimms[15,14,13,4]
+Summary accuracy: 84.77476715841682
+Net dimms[8,7,6,5,4]
+Summary accuracy: 81.23811134125206
+Net dimms[9,7,6,5,4]
+Summary accuracy: 79.84830826273105
+Net dimms[10,7,6,5,4]
+Summary accuracy: 77.00006239973268
+Net dimms[11,7,6,5,4]
+Summary accuracy: 78.73769366562198
+Net dimms[12,7,6,5,4]
+Summary accuracy: 73.46219884580623
+Net dimms[13,7,6,5,4]
+Summary accuracy: 75.0764396725423
+Net dimms[14,7,6,5,4]
+Summary accuracy: 78.21746105552167
+Net dimms[15,7,6,5,4]
+Summary accuracy: 79.57032751808083
+Net dimms[9,8,6,5,4]
+Summary accuracy: 77.41200128020097
+Net dimms[10,8,6,5,4]
+Summary accuracy: 79.15234995380406
+Net dimms[11,8,6,5,4]
+Summary accuracy: 72.60259220566952
+Net dimms[12,8,6,5,4]
+Summary accuracy: 78.73799559981241
+Net dimms[13,8,6,5,4]
+Summary accuracy: 78.56619504546121
+Net dimms[14,8,6,5,4]
+Summary accuracy: 85.53242068692042
+Net dimms[15,8,6,5,4]
+Summary accuracy: 79.5510037298937
+Net dimms[10,9,6,5,4]
+Summary accuracy: 78.1022228395099
+Net dimms[11,9,6,5,4]
+Summary accuracy: 82.28733265297495
+Net dimms[12,9,6,5,4]
+Summary accuracy: 80.36461572835584
+Net dimms[13,9,6,5,4]
+Summary accuracy: 80.36582346511754
+Net dimms[14,9,6,5,4]
+Summary accuracy: 74.27611277845881
+Net dimms[15,9,6,5,4]
+Summary accuracy: 74.38893552094719
+Net dimms[11,10,6,5,4]
+Summary accuracy: 77.98487108416516
+Net dimms[12,10,6,5,4]
+Summary accuracy: 77.17427842760725
+Net dimms[13,10,6,5,4]
+Summary accuracy: 81.58986467309586
+Net dimms[14,10,6,5,4]
+Summary accuracy: 73.81455604603087
+Net dimms[15,10,6,5,4]
+Summary accuracy: 77.69541684027882
+Net dimms[12,11,6,5,4]
+Summary accuracy: 77.92740294325448
+Net dimms[13,11,6,5,4]
+Summary accuracy: 82.51448780890384
+Net dimms[14,11,6,5,4]
+Summary accuracy: 74.45546168757058
+Net dimms[15,11,6,5,4]
+Summary accuracy: 80.37186214892603
+Net dimms[13,12,6,5,4]
+Summary accuracy: 79.20830842376262
+Net dimms[14,12,6,5,4]
+Summary accuracy: 78.68354680080597
+Net dimms[15,12,6,5,4]
+Summary accuracy: 78.9793416626912
+Net dimms[14,13,6,5,4]
+Summary accuracy: 73.74742601102665
+Net dimms[15,13,6,5,4]
+Summary accuracy: 85.41506893157566
+Net dimms[15,14,6,5,4]
+Summary accuracy: 82.22714710435048
+Net dimms[9,8,7,5,4]
+Summary accuracy: 81.6509560242916
+Net dimms[10,8,7,5,4]
+Summary accuracy: 76.36127029752595
+Net dimms[11,8,7,5,4]
+Summary accuracy: 78.58551883364835
+Net dimms[12,8,7,5,4]
+Summary accuracy: 77.92136425944601
+Net dimms[13,8,7,5,4]
+Summary accuracy: 74.21411562469177
+Net dimms[14,8,7,5,4]
+Summary accuracy: 78.04294309345669
+Net dimms[15,8,7,5,4]
+Summary accuracy: 78.10795958912796
+Net dimms[10,9,7,5,4]
+Summary accuracy: 77.87023673653425
+Net dimms[11,9,7,5,4]
+Summary accuracy: 77.12315090469548
+Net dimms[12,9,7,5,4]
+Summary accuracy: 80.48257135208144
+Net dimms[13,9,7,5,4]
+Summary accuracy: 80.25118911748662
+Net dimms[14,9,7,5,4]
+Summary accuracy: 75.5615472718233
+Net dimms[15,9,7,5,4]
+Summary accuracy: 79.37799543878083
+Net dimms[11,10,7,5,4]
+Summary accuracy: 79.7935575295342
+Net dimms[12,10,7,5,4]
+Summary accuracy: 85.13346497664035
+Net dimms[13,10,7,5,4]
+Summary accuracy: 76.99855272878057
+Net dimms[14,10,7,5,4]
+Summary accuracy: 80.37186214892603
+Net dimms[15,10,7,5,4]
+Summary accuracy: 79.96415034712368
+Net dimms[12,11,7,5,4]
+Summary accuracy: 77.8233362922884
+Net dimms[13,11,7,5,4]
+Summary accuracy: 74.73102695869741
+Net dimms[14,11,7,5,4]
+Summary accuracy: 75.66470812021812
+Net dimms[15,11,7,5,4]
+Summary accuracy: 72.70545111987391
+Net dimms[13,12,7,5,4]
+Summary accuracy: 73.86779710827561
+Net dimms[14,12,7,5,4]
+Summary accuracy: 79.50923616688506
+Net dimms[15,12,7,5,4]
+Summary accuracy: 78.5658931112708
+Net dimms[14,13,7,5,4]
+Summary accuracy: 78.22199006837803
+Net dimms[15,13,7,5,4]
+Summary accuracy: 74.52681880124076
+Net dimms[15,14,7,5,4]
+Summary accuracy: 81.30765684977969
+Net dimms[10,9,8,5,4]
+Summary accuracy: 72.23996924297047
+Net dimms[11,9,8,5,4]
+Summary accuracy: 73.69992169839995
+Net dimms[12,9,8,5,4]
+Summary accuracy: 81.69785646853745
+Net dimms[13,9,8,5,4]
+Summary accuracy: 81.93316384760777
+Net dimms[14,9,8,5,4]
+Summary accuracy: 82.35597235893131
+Net dimms[15,9,8,5,4]
+Summary accuracy: 75.43876070105092
+Net dimms[11,10,8,5,4]
+Summary accuracy: 73.05448704400389
+Net dimms[12,10,8,5,4]
+Summary accuracy: 82.75643774016349
+Net dimms[13,10,8,5,4]
+Summary accuracy: 77.46977135530206
+Net dimms[14,10,8,5,4]
+Summary accuracy: 83.56461492319801
+Net dimms[15,10,8,5,4]
+Summary accuracy: 82.1082856780536
+Net dimms[12,11,8,5,4]
+Summary accuracy: 82.85657924665406
+Net dimms[13,11,8,5,4]
+Summary accuracy: 83.73883095107256
+Net dimms[14,11,8,5,4]
+Summary accuracy: 78.74403428362088
+Net dimms[15,11,8,5,4]
+Summary accuracy: 78.28066594605039
+Net dimms[13,12,8,5,4]
+Summary accuracy: 77.40566066220208
+Net dimms[14,12,8,5,4]
+Summary accuracy: 74.55922640434623
+Net dimms[15,12,8,5,4]
+Summary accuracy: 81.70329128396509
+Net dimms[14,13,8,5,4]
+Summary accuracy: 80.49827192998349
+Net dimms[15,13,8,5,4]
+Summary accuracy: 82.16062093772707
+Net dimms[15,14,8,5,4]
+Summary accuracy: 79.50108394374361
+Net dimms[11,10,9,5,4]
+Summary accuracy: 74.97690203443257
+Net dimms[12,10,9,5,4]
+Summary accuracy: 75.62112895206694
+Net dimms[13,10,9,5,4]
+Summary accuracy: 79.72763523129164
+Net dimms[14,10,9,5,4]
+Summary accuracy: 79.55764628208304
+Net dimms[15,10,9,5,4]
+Summary accuracy: 75.55399891706271
+Net dimms[12,11,9,5,4]
+Summary accuracy: 79.66986515619055
+Net dimms[13,11,9,5,4]
+Summary accuracy: 76.47982978963238
+Net dimms[14,11,9,5,4]
+Summary accuracy: 79.38161864906591
+Net dimms[15,11,9,5,4]
+Summary accuracy: 75.49773851291373
+Net dimms[13,12,9,5,4]
+Summary accuracy: 78.40043317491853
+Net dimms[14,12,9,5,4]
+Summary accuracy: 73.06143153038364
+Net dimms[15,12,9,5,4]
+Summary accuracy: 76.36277996847807
+Net dimms[14,13,9,5,4]
+Summary accuracy: 78.63664635656012
+Net dimms[15,13,9,5,4]
+Summary accuracy: 80.07787889218332
+Net dimms[15,14,9,5,4]
+Summary accuracy: 76.0176691888236
+Net dimms[12,11,10,5,4]
+Summary accuracy: 80.2599452090089
+Net dimms[13,11,10,5,4]
+Summary accuracy: 76.37636700704714
+Net dimms[14,11,10,5,4]
+Summary accuracy: 73.11014357977201
+Net dimms[15,11,10,5,4]
+Summary accuracy: 80.59690376552193
+Net dimms[13,12,10,5,4]
+Summary accuracy: 80.71244391572412
+Net dimms[14,12,10,5,4]
+Summary accuracy: 82.74888938540289
+Net dimms[15,12,10,5,4]
+Summary accuracy: 78.22168813418762
+Net dimms[14,13,10,5,4]
+Summary accuracy: 83.20682290754574
+Net dimms[15,13,10,5,4]
+Summary accuracy: 76.1280764577886
+Net dimms[15,14,10,5,4]
+Summary accuracy: 82.97936581742644
+Net dimms[13,12,11,5,4]
+Summary accuracy: 73.22991080864016
+Net dimms[14,12,11,5,4]
+Summary accuracy: 78.97451071564443
+Net dimms[15,12,11,5,4]
+Summary accuracy: 80.66101445862193
+Net dimms[14,13,11,5,4]
+Summary accuracy: 82.17088670020149
+Net dimms[15,13,11,5,4]
+Summary accuracy: 85.93650927843767
+Net dimms[15,14,11,5,4]
+Summary accuracy: 75.14779678621247
+Net dimms[14,13,12,5,4]
+Summary accuracy: 74.91581068323681
+Net dimms[15,13,12,5,4]
+Summary accuracy: 72.12956197400547
+Net dimms[15,14,12,5,4]
+Summary accuracy: 77.81820341105119
+Net dimms[15,14,13,5,4]
+Summary accuracy: 80.36310605740373
+Net dimms[9,8,7,6,4]
+Summary accuracy: 83.14935476663506
+Net dimms[10,8,7,6,4]
+Summary accuracy: 79.7860091747736
+Net dimms[11,8,7,6,4]
+Summary accuracy: 84.25513841669736
+Net dimms[12,8,7,6,4]
+Summary accuracy: 79.54587084865649
+Net dimms[13,8,7,6,4]
+Summary accuracy: 75.3894447832817
+Net dimms[14,8,7,6,4]
+Summary accuracy: 82.51720521661765
+Net dimms[15,8,7,6,4]
+Summary accuracy: 84.83193336513706
+Net dimms[10,9,7,6,4]
+Summary accuracy: 78.91553290378164
+Net dimms[11,9,7,6,4]
+Summary accuracy: 74.79060863894105
+Net dimms[12,9,7,6,4]
+Summary accuracy: 78.92428899530393
+Net dimms[13,9,7,6,4]
+Summary accuracy: 79.61058541013735
+Net dimms[14,9,7,6,4]
+Summary accuracy: 75.14206003659443
+Net dimms[15,9,7,6,4]
+Summary accuracy: 78.6790177879496
+Net dimms[11,10,7,6,4]
+Summary accuracy: 81.99667067232691
+Net dimms[12,10,7,6,4]
+Summary accuracy: 78.29274331366736
+Net dimms[13,10,7,6,4]
+Summary accuracy: 76.7828710720878
+Net dimms[14,10,7,6,4]
+Summary accuracy: 79.08733345813279
+Net dimms[15,10,7,6,4]
+Summary accuracy: 79.72884296805334
+Net dimms[12,11,7,6,4]
+Summary accuracy: 77.7580178624267
+Net dimms[13,11,7,6,4]
+Summary accuracy: 73.12101321062728
+Net dimms[14,11,7,6,4]
+Summary accuracy: 77.64579898831919
+Net dimms[15,11,7,6,4]
+Summary accuracy: 79.61360475204158
+Net dimms[13,12,7,6,4]
+Summary accuracy: 83.04075910281261
+Net dimms[14,12,7,6,4]
+Summary accuracy: 78.2114223717132
+Net dimms[15,12,7,6,4]
+Summary accuracy: 77.5293530355457
+Net dimms[14,13,7,6,4]
+Summary accuracy: 80.31228046868239
+Net dimms[15,13,7,6,4]
+Summary accuracy: 82.06651811504497
+Net dimms[15,14,7,6,4]
+Summary accuracy: 79.7844995038215
+Net dimms[10,9,8,6,4]
+Summary accuracy: 79.03530013264975
+Net dimms[11,9,8,6,4]
+Summary accuracy: 76.30500989337698
+Net dimms[12,9,8,6,4]
+Summary accuracy: 76.8370179369038
+Net dimms[13,9,8,6,4]
+Summary accuracy: 76.53367472025796
+Net dimms[14,9,8,6,4]
+Summary accuracy: 71.5443128682339
+Net dimms[15,9,8,6,4]
+Summary accuracy: 74.32633449879931
+Net dimms[11,10,8,6,4]
+Summary accuracy: 79.72793716548209
+Net dimms[12,10,8,6,4]
+Summary accuracy: 76.30350022242486
+Net dimms[13,10,8,6,4]
+Summary accuracy: 79.266984301435
+Net dimms[14,10,8,6,4]
+Summary accuracy: 75.26394080479551
+Net dimms[15,10,8,6,4]
+Summary accuracy: 82.81239621012203
+Net dimms[12,11,8,6,4]
+Summary accuracy: 81.29618335054359
+Net dimms[13,11,8,6,4]
+Summary accuracy: 82.86624114074763
+Net dimms[14,11,8,6,4]
+Summary accuracy: 80.79014164739321
+Net dimms[15,11,8,6,4]
+Summary accuracy: 81.76800584544593
+Net dimms[13,12,8,6,4]
+Summary accuracy: 76.65253614655484
+Net dimms[14,12,8,6,4]
+Summary accuracy: 78.38775193892074
+Net dimms[15,12,8,6,4]
+Summary accuracy: 83.03502235319456
+Net dimms[14,13,8,6,4]
+Summary accuracy: 76.19641422955452
+Net dimms[15,13,8,6,4]
+Summary accuracy: 76.07483539554386
+Net dimms[15,14,8,6,4]
+Summary accuracy: 77.5293530355457
+Net dimms[11,10,9,6,4]
+Summary accuracy: 81.01337165884657
+Net dimms[12,10,9,6,4]
+Summary accuracy: 83.91274504475672
+Net dimms[13,10,9,6,4]
+Summary accuracy: 75.5591317982999
+Net dimms[14,10,9,6,4]
+Summary accuracy: 78.85595122353799
+Net dimms[15,10,9,6,4]
+Summary accuracy: 87.09643979331598
+Net dimms[12,11,9,6,4]
+Summary accuracy: 84.2079360382611
+Net dimms[13,11,9,6,4]
+Summary accuracy: 79.26215335438822
+Net dimms[14,11,9,6,4]
+Summary accuracy: 75.08368609311248
+Net dimms[15,11,9,6,4]
+Summary accuracy: 83.91878372856519
+Net dimms[13,12,9,6,4]
+Summary accuracy: 77.81578793752779
+Net dimms[14,12,9,6,4]
+Summary accuracy: 77.80491830667255
+Net dimms[15,12,9,6,4]
+Summary accuracy: 79.84498698663639
+Net dimms[14,13,9,6,4]
+Summary accuracy: 79.97049096512258
+Net dimms[15,13,9,6,4]
+Summary accuracy: 82.10496440195895
+Net dimms[15,14,9,6,4]
+Summary accuracy: 76.41662489910367
+Net dimms[12,11,10,6,4]
+Summary accuracy: 81.18819155510198
+Net dimms[13,11,10,6,4]
+Summary accuracy: 80.72361548076981
+Net dimms[14,11,10,6,4]
+Summary accuracy: 80.08361564180137
+Net dimms[15,11,10,6,4]
+Summary accuracy: 81.99002812013761
+Net dimms[13,12,10,6,4]
+Summary accuracy: 79.97169870188428
+Net dimms[14,12,10,6,4]
+Summary accuracy: 74.96089952234011
+Net dimms[15,12,10,6,4]
+Summary accuracy: 75.54614862811168
+Net dimms[14,13,10,6,4]
+Summary accuracy: 76.88572998629219
+Net dimms[15,13,10,6,4]
+Summary accuracy: 80.19341904238553
+Net dimms[15,14,10,6,4]
+Summary accuracy: 78.46092065773344
+Net dimms[13,12,11,6,4]
+Summary accuracy: 79.1989484638595
+Net dimms[14,12,11,6,4]
+Summary accuracy: 78.80361596386452
+Net dimms[15,12,11,6,4]
+Summary accuracy: 72.64134042677391
+Net dimms[14,13,11,6,4]
+Summary accuracy: 78.79908695100816
+Net dimms[15,13,11,6,4]
+Summary accuracy: 80.13383736214188
+Net dimms[15,14,11,6,4]
+Summary accuracy: 79.03801754036357
+Net dimms[14,13,12,6,4]
+Summary accuracy: 71.54068965794882
+Net dimms[15,13,12,6,4]
+Summary accuracy: 76.31829499775563
+Net dimms[15,14,12,6,4]
+Summary accuracy: 80.6643357347166
+Net dimms[15,14,13,6,4]
+Summary accuracy: 79.43033069845431
+Net dimms[10,9,8,7,4]
+Summary accuracy: 77.99030589959278
+Net dimms[11,9,8,7,4]
+Summary accuracy: 73.63822647882334
+Net dimms[12,9,8,7,4]
+Summary accuracy: 79.26034174924567
+Net dimms[13,9,8,7,4]
+Summary accuracy: 76.06728704078326
+Net dimms[14,9,8,7,4]
+Summary accuracy: 77.64066610708197
+Net dimms[15,9,8,7,4]
+Summary accuracy: 77.06840017149862
+Net dimms[11,10,8,7,4]
+Summary accuracy: 79.96113100521943
+Net dimms[12,10,8,7,4]
+Summary accuracy: 80.6619202611932
+Net dimms[13,10,8,7,4]
+Summary accuracy: 81.12136345428816
+Net dimms[14,10,8,7,4]
+Summary accuracy: 81.01035231694233
+Net dimms[15,10,8,7,4]
+Summary accuracy: 77.99362717568745
+Net dimms[12,11,8,7,4]
+Summary accuracy: 80.83070147364013
+Net dimms[13,11,8,7,4]
+Summary accuracy: 81.76408070097041
+Net dimms[14,11,8,7,4]
+Summary accuracy: 84.25121327222185
+Net dimms[15,11,8,7,4]
+Summary accuracy: 83.62027145896614
+Net dimms[13,12,8,7,4]
+Summary accuracy: 83.27214133740743
+Net dimms[14,12,8,7,4]
+Summary accuracy: 76.413303623009
+Net dimms[15,12,8,7,4]
+Summary accuracy: 84.31290849179847
+Net dimms[14,13,8,7,4]
+Summary accuracy: 74.51021242076744
+Net dimms[15,13,8,7,4]
+Summary accuracy: 79.43697325064362
+Net dimms[15,14,8,7,4]
+Summary accuracy: 83.50503324295437
+Net dimms[11,10,9,7,4]
+Summary accuracy: 81.645521208864
+Net dimms[12,10,9,7,4]
+Summary accuracy: 77.69602070865967
+Net dimms[13,10,9,7,4]
+Summary accuracy: 78.04505663278964
+Net dimms[14,10,9,7,4]
+Summary accuracy: 82.57074821305281
+Net dimms[15,10,9,7,4]
+Summary accuracy: 73.3475644981753
+Net dimms[12,11,9,7,4]
+Summary accuracy: 80.26115294577062
+Net dimms[13,11,9,7,4]
+Summary accuracy: 79.73790099376606
+Net dimms[14,11,9,7,4]
+Summary accuracy: 74.85864447651656
+Net dimms[15,11,9,7,4]
+Summary accuracy: 81.00461556732427
+Net dimms[13,12,9,7,4]
+Summary accuracy: 79.14631126999559
+Net dimms[14,12,9,7,4]
+Summary accuracy: 81.17641612167546
+Net dimms[15,12,9,7,4]
+Summary accuracy: 85.53694969977677
+Net dimms[14,13,9,7,4]
+Summary accuracy: 82.45822740475485
+Net dimms[15,13,9,7,4]
+Summary accuracy: 83.73249033307367
+Net dimms[15,14,9,7,4]
+Summary accuracy: 76.36579931038231
+Net dimms[12,11,10,7,4]
+Summary accuracy: 81.93799479465456
+Net dimms[13,11,10,7,4]
+Summary accuracy: 77.41049160924887
+Net dimms[14,11,10,7,4]
+Summary accuracy: 81.64159606438847
+Net dimms[15,11,10,7,4]
+Summary accuracy: 75.50045592062754
+Net dimms[13,12,10,7,4]
+Summary accuracy: 77.57746121655323
+Net dimms[14,12,10,7,4]
+Summary accuracy: 85.1265204902606
+Net dimms[15,12,10,7,4]
+Summary accuracy: 77.17729776951148
+Net dimms[14,13,10,7,4]
+Summary accuracy: 77.0079126886837
+Net dimms[15,13,10,7,4]
+Summary accuracy: 84.0195291034366
+Net dimms[15,14,10,7,4]
+Summary accuracy: 80.42751868469416
+Net dimms[13,12,11,7,4]
+Summary accuracy: 81.18064320034138
+Net dimms[14,12,11,7,4]
+Summary accuracy: 77.93283775868213
+Net dimms[15,12,11,7,4]
+Summary accuracy: 72.60078060052697
+Net dimms[14,13,11,7,4]
+Summary accuracy: 76.59084092697823
+Net dimms[15,13,11,7,4]
+Summary accuracy: 76.7136274977506
+Net dimms[15,14,11,7,4]
+Summary accuracy: 79.37648576782873
+Net dimms[14,13,12,7,4]
+Summary accuracy: 78.79757728005605
+Net dimms[15,13,12,7,4]
+Summary accuracy: 76.84094308137931
+Net dimms[15,14,12,7,4]
+Summary accuracy: 79.72642749452996
+Net dimms[15,14,13,7,4]
+Summary accuracy: 77.7604333359501
+Net dimms[11,10,9,8,4]
+Summary accuracy: 74.21773883497686
+Net dimms[12,10,9,8,4]
+Summary accuracy: 82.69021350773052
+Net dimms[13,10,9,8,4]
+Summary accuracy: 80.20217513390782
+Net dimms[14,10,9,8,4]
+Summary accuracy: 79.94875170341206
+Net dimms[15,10,9,8,4]
+Summary accuracy: 80.54305883489634
+Net dimms[12,11,9,8,4]
+Summary accuracy: 77.52844723297443
+Net dimms[13,11,9,8,4]
+Summary accuracy: 80.71606712600921
+Net dimms[14,11,9,8,4]
+Summary accuracy: 84.07820498110898
+Net dimms[15,11,9,8,4]
+Summary accuracy: 80.58784573980923
+Net dimms[13,12,9,8,4]
+Summary accuracy: 81.47341872032239
+Net dimms[14,12,9,8,4]
+Summary accuracy: 83.78935460560349
+Net dimms[15,12,9,8,4]
+Summary accuracy: 79.32928338939244
+Net dimms[14,13,9,8,4]
+Summary accuracy: 72.64979458410578
+Net dimms[15,13,9,8,4]
+Summary accuracy: 86.16940118398462
+Net dimms[15,14,9,8,4]
+Summary accuracy: 82.45732160218358
+Net dimms[12,11,10,8,4]
+Summary accuracy: 79.21736644947534
+Net dimms[13,11,10,8,4]
+Summary accuracy: 81.59137434404796
+Net dimms[14,11,10,8,4]
+Summary accuracy: 79.788424648297
+Net dimms[15,11,10,8,4]
+Summary accuracy: 84.54881973924964
+Net dimms[13,12,10,8,4]
+Summary accuracy: 81.75683428040026
+Net dimms[14,12,10,8,4]
+Summary accuracy: 76.81588254357413
+Net dimms[15,12,10,8,4]
+Summary accuracy: 79.10303403603484
+Net dimms[14,13,10,8,4]
+Summary accuracy: 79.33109499453498
+Net dimms[15,13,10,8,4]
+Summary accuracy: 79.90034158821409
+Net dimms[15,14,10,8,4]
+Summary accuracy: 78.21746105552167
+Net dimms[13,12,11,8,4]
+Summary accuracy: 81.88022471955345
+Net dimms[14,12,11,8,4]
+Summary accuracy: 81.64280380115018
+Net dimms[15,12,11,8,4]
+Summary accuracy: 78.62819219922825
+Net dimms[14,13,11,8,4]
+Summary accuracy: 75.19258369112534
+Net dimms[15,13,11,8,4]
+Summary accuracy: 79.60937767337563
+Net dimms[15,14,11,8,4]
+Summary accuracy: 82.98208322514024
+Net dimms[14,13,12,8,4]
+Summary accuracy: 78.92640253463689
+Net dimms[15,13,12,8,4]
+Summary accuracy: 81.52484817742459
+Net dimms[15,14,12,8,4]
+Summary accuracy: 78.74765749390598
+Net dimms[15,14,13,8,4]
+Summary accuracy: 83.73369806983537
+Net dimms[12,11,10,9,4]
+Summary accuracy: 78.97390684726356
+Net dimms[13,11,10,9,4]
+Summary accuracy: 78.76064066409418
+Net dimms[14,11,10,9,4]
+Summary accuracy: 82.80364011859974
+Net dimms[15,11,10,9,4]
+Summary accuracy: 79.14661320418601
+Net dimms[13,12,10,9,4]
+Summary accuracy: 85.88115467685996
+Net dimms[14,12,10,9,4]
+Summary accuracy: 80.19281517400468
+Net dimms[15,12,10,9,4]
+Summary accuracy: 81.75864588554278
+Net dimms[14,13,10,9,4]
+Summary accuracy: 78.4013389774898
+Net dimms[15,13,10,9,4]
+Summary accuracy: 82.35053754350368
+Net dimms[15,14,10,9,4]
+Summary accuracy: 83.74003868783427
+Net dimms[13,12,11,9,4]
+Summary accuracy: 82.00301129032583
+Net dimms[14,12,11,9,4]
+Summary accuracy: 84.8927227821424
+Net dimms[15,12,11,9,4]
+Summary accuracy: 73.88047834427341
+Net dimms[14,13,11,9,4]
+Summary accuracy: 79.37769350459041
+Net dimms[15,13,11,9,4]
+Summary accuracy: 83.96960931728654
+Net dimms[15,14,11,9,4]
+Summary accuracy: 83.7881468688418
+Net dimms[14,13,12,9,4]
+Summary accuracy: 77.87174640748636
+Net dimms[15,13,12,9,4]
+Summary accuracy: 81.94524121522473
+Net dimms[15,14,12,9,4]
+Summary accuracy: 78.97028363697848
+Net dimms[15,14,13,9,4]
+Summary accuracy: 84.08575333586958
+Net dimms[13,12,11,10,4]
+Summary accuracy: 79.72612556033954
+Net dimms[14,12,11,10,4]
+Summary accuracy: 80.71485938924752
+Net dimms[15,12,11,10,4]
+Summary accuracy: 81.41806411874467
+Net dimms[14,13,11,10,4]
+Summary accuracy: 82.23409159073022
+Net dimms[15,13,11,10,4]
+Summary accuracy: 81.24173455153715
+Net dimms[15,14,11,10,4]
+Summary accuracy: 81.93829672884499
+Net dimms[14,13,12,10,4]
+Summary accuracy: 82.7401332938806
+Net dimms[15,13,12,10,4]
+Summary accuracy: 76.95799290253363
+Net dimms[15,14,12,10,4]
+Summary accuracy: 76.30621763013866
+Net dimms[15,14,13,10,4]
+Summary accuracy: 76.48798201277384
+Net dimms[14,13,12,11,4]
+Summary accuracy: 81.23660167029995
+Net dimms[15,13,12,11,4]
+Summary accuracy: 80.95228030765081
+Net dimms[15,14,12,11,4]
+Summary accuracy: 83.78995847398436
+Net dimms[15,14,13,11,4]
+Summary accuracy: 82.98510256704448
+Net dimms[15,14,13,12,4]
+Summary accuracy: 82.87318562712737
+Net dimms[9,8,7,6,5,4]
+Summary accuracy: 74.10853930277356
+Net dimms[10,8,7,6,5,4]
+Summary accuracy: 79.3298872577733
+Net dimms[11,8,7,6,5,4]
+Summary accuracy: 69.06684219107603
+Net dimms[12,8,7,6,5,4]
+Summary accuracy: 80.36974860959305
+Net dimms[13,8,7,6,5,4]
+Summary accuracy: 76.42326745129299
+Net dimms[14,8,7,6,5,4]
+Summary accuracy: 71.1008721872314
+Net dimms[15,8,7,6,5,4]
+Summary accuracy: 70.69346231961948
+Net dimms[10,9,7,6,5,4]
+Summary accuracy: 76.13290740483538
+Net dimms[11,9,7,6,5,4]
+Summary accuracy: 72.58658969357705
+Net dimms[12,9,7,6,5,4]
+Summary accuracy: 69.06231317821967
+Net dimms[13,9,7,6,5,4]
+Summary accuracy: 67.66616948169978
+Net dimms[14,9,7,6,5,4]
+Summary accuracy: 74.62182742649412
+Net dimms[15,9,7,6,5,4]
+Summary accuracy: 76.5327689176867
+Net dimms[11,10,7,6,5,4]
+Summary accuracy: 72.23634603268538
+Net dimms[12,10,7,6,5,4]
+Summary accuracy: 82.11523016443336
+Net dimms[13,10,7,6,5,4]
+Summary accuracy: 67.90177879496052
+Net dimms[14,10,7,6,5,4]
+Summary accuracy: 77.8118627930523
+Net dimms[15,10,7,6,5,4]
+Summary accuracy: 78.63362701465589
+Net dimms[12,11,7,6,5,4]
+Summary accuracy: 78.04898177726517
+Net dimms[13,11,7,6,5,4]
+Summary accuracy: 73.05358124143261
+Net dimms[14,11,7,6,5,4]
+Summary accuracy: 75.36619585061906
+Net dimms[15,11,7,6,5,4]
+Summary accuracy: 74.87343925184734
+Net dimms[13,12,7,6,5,4]
+Summary accuracy: 77.11348901060191
+Net dimms[14,12,7,6,5,4]
+Summary accuracy: 73.63852841301376
+Net dimms[15,12,7,6,5,4]
+Summary accuracy: 76.71513716870271
+Net dimms[14,13,7,6,5,4]
+Summary accuracy: 79.14902867770941
+Net dimms[15,13,7,6,5,4]
+Summary accuracy: 77.58621730807555
+Net dimms[15,14,7,6,5,4]
+Summary accuracy: 76.82645024023897
+Net dimms[10,9,8,6,5,4]
+Summary accuracy: 70.45966461150128
+Net dimms[11,9,8,6,5,4]
+Summary accuracy: 74.16359197016085
+Net dimms[12,9,8,6,5,4]
+Summary accuracy: 78.75097877000063
+Net dimms[13,9,8,6,5,4]
+Summary accuracy: 78.97662425497738
+Net dimms[14,9,8,6,5,4]
+Summary accuracy: 82.16816929248768
+Net dimms[15,9,8,6,5,4]
+Summary accuracy: 68.07991996731059
+Net dimms[11,10,8,6,5,4]
+Summary accuracy: 74.32603256460888
+Net dimms[12,10,8,6,5,4]
+Summary accuracy: 80.89390636416886
+Net dimms[13,10,8,6,5,4]
+Summary accuracy: 72.54602986733012
+Net dimms[14,10,8,6,5,4]
+Summary accuracy: 79.49776266764896
+Net dimms[15,10,8,6,5,4]
+Summary accuracy: 76.25116496275137
+Net dimms[12,11,8,6,5,4]
+Summary accuracy: 77.81337246400442
+Net dimms[13,11,8,6,5,4]
+Summary accuracy: 77.12164123374338
+Net dimms[14,11,8,6,5,4]
+Summary accuracy: 77.59889854407334
+Net dimms[15,11,8,6,5,4]
+Summary accuracy: 75.67376614593083
+Net dimms[13,12,8,6,5,4]
+Summary accuracy: 77.5807824926479
+Net dimms[14,12,8,6,5,4]
+Summary accuracy: 72.41780848113012
+Net dimms[15,12,8,6,5,4]
+Summary accuracy: 75.19771657236255
+Net dimms[14,13,8,6,5,4]
+Summary accuracy: 74.91279134133258
+Net dimms[15,13,8,6,5,4]
+Summary accuracy: 83.15418571368184
+Net dimms[15,14,8,6,5,4]
+Summary accuracy: 78.92217545597096
+Net dimms[11,10,9,6,5,4]
+Summary accuracy: 75.84224542418734
+Net dimms[12,10,9,6,5,4]
+Summary accuracy: 75.55218731192016
+Net dimms[13,10,9,6,5,4]
+Summary accuracy: 78.56438344031868
+Net dimms[14,10,9,6,5,4]
+Summary accuracy: 75.3806886917594
+Net dimms[15,10,9,6,5,4]
+Summary accuracy: 76.59808734754839
+Net dimms[12,11,9,6,5,4]
+Summary accuracy: 76.65072454141229
+Net dimms[13,11,9,6,5,4]
+Summary accuracy: 78.79727534586561
+Net dimms[14,11,9,6,5,4]
+Summary accuracy: 73.0520715704805
+Net dimms[15,11,9,6,5,4]
+Summary accuracy: 84.9556257384807
+Net dimms[13,12,9,6,5,4]
+Summary accuracy: 80.8355324206869
+Net dimms[14,12,9,6,5,4]
+Summary accuracy: 75.90001549928844
+Net dimms[15,12,9,6,5,4]
+Summary accuracy: 76.54001533825686
+Net dimms[14,13,9,6,5,4]
+Summary accuracy: 77.64066610708197
+Net dimms[15,13,9,6,5,4]
+Summary accuracy: 74.91762228837935
+Net dimms[15,14,9,6,5,4]
+Summary accuracy: 75.95355849572361
+Net dimms[12,11,10,6,5,4]
+Summary accuracy: 80.49162937779415
+Net dimms[13,11,10,6,5,4]
+Summary accuracy: 83.3296094783181
+Net dimms[14,11,10,6,5,4]
+Summary accuracy: 76.42085197776959
+Net dimms[15,11,10,6,5,4]
+Summary accuracy: 78.6260786598953
+Net dimms[13,12,10,6,5,4]
+Summary accuracy: 70.16175621028307
+Net dimms[14,12,10,6,5,4]
+Summary accuracy: 76.30017894633019
+Net dimms[15,12,10,6,5,4]
+Summary accuracy: 71.27689982024852
+Net dimms[14,13,10,6,5,4]
+Summary accuracy: 78.0456605011705
+Net dimms[15,13,10,6,5,4]
+Summary accuracy: 78.4566935790675
+Net dimms[15,14,10,6,5,4]
+Summary accuracy: 70.34080318520441
+Net dimms[13,12,11,6,5,4]
+Summary accuracy: 78.28217561700251
+Net dimms[14,12,11,6,5,4]
+
+------- WDBC
+
+
+Net dimms[2]
+Summary accuracy: 93.68297208018463
+Net dimms[3,2]
+Summary accuracy: 95.9704059007195
+Net dimms[4,2]
+Summary accuracy: 97.37544685279877
+Net dimms[5,2]
+Summary accuracy: 97.21254355400697
+Net dimms[6,2]
+Summary accuracy: 97.02701479704965
+Net dimms[7,2]
+Summary accuracy: 96.14462192859405
+Net dimms[8,2]
+Summary accuracy: 96.6785827413005
+Net dimms[9,2]
+Summary accuracy: 97.21254355400697
+Net dimms[10,2]
+Summary accuracy: 97.37544685279877
+Net dimms[11,2]
+Summary accuracy: 97.56097560975611
+Net dimms[12,2]
+Summary accuracy: 97.54966288067332
+Net dimms[13,2]
+Summary accuracy: 97.38675958188153
+Net dimms[14,2]
+Summary accuracy: 97.20123082492421
+Net dimms[15,2]
+Summary accuracy: 96.33015068555139
+Net dimms[16,2]
