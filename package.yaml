@@ -28,6 +28,8 @@ dependencies:
 - bytestring
 - random
 - vector-shuffling
+- mtl
+- time
 
 ghc-options:
 - -Wall
